@@ -1,5 +1,7 @@
 ### To Reso Coders app I will add Firebase Auth, Firestore, etc, and update dependencies to make a templated app that can be used to quickly prototype a new app using all the bells and whistles.  Of course the guts of this template come from :point_right: [the Reso Coders course](https://resocoder.com/flutter-clean-architecture-tdd/) :point_left: and from the examples found at :point_right: [felangel's bloc repo](https://github.com/felangel/bloc/tree/master/examples/) :point_left:.
 
+
+#### the original readme from the reso coders repo is kept intact below this line 
 # TDD Clean Architecture for Flutter
 
 ### The whole accompanying tutorial series is available at :point_right: [this link](https://resocoder.com/flutter-clean-architecture-tdd/) :point_left:.
